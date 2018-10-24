@@ -16,5 +16,6 @@ github의 repositry저장 공간에 옮겨보자!
     <p>2차 수정 </p>
     <h3>server</h3>
 <h3>Client</h3>
+    pull 연습
 </body>
 </html>
