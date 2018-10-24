@@ -10,6 +10,11 @@
 <h1>Test1.jsp</h1>
 github의 repositry저장 공간에 옮겨보자!
 <h2>1차 수정</h2>
+
 <h3>client</h3>
+
+    <p>2차 수정 </p>
+    <h3>server</h3>
+<h3>Client</h3>
 </body>
 </html>
